@@ -1,2 +1,3 @@
 # hello-world
-new repository ...1
+This is new learning of Git-hub.
+Read-me file is getting changed at branch.
